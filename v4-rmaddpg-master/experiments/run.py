@@ -7,9 +7,7 @@ import argparse
 
 from grpc import server
 
-# nohup python run.py --exp-index 0 --server-name "FeiNewML"> 2022_04_30_run.out 2> 2022_04_30_run.err &
-# nohup python run.py --exp-index 1 --lr-adv 5e-2 --server-name "FeiNewML"> 2022_05_01_large_run.out 2> 2022_05_01_large_run.err &
-# nohup python run.py --exp-index 2 --lr-adv 1e-3 --server-name "FeiML"> 2022_05_01_small_run.out 2> 2022_05_01_small_run.err &
+# nohup python run.py --exp-index 0 --lr-adv 1e-3 --server-name "FeiNewML"> 2022_05_14_small_run.out 2> 2022_05_14_small_run.err &
 def get_command(scenario_index = 8, exp_index = 0, cuda_index = 2, alg = "ma", server_name = "FeiML", lr_adv = "2e-2"):
     scenario_list = ["simple","simple_reference", "simple_speaker_listener", "simple_spread",
                         "simple_adversary", "simple_crypto", "simple_push",
@@ -54,7 +52,7 @@ def run(scenario_index, exp_index, server_name, lr_adv):
     # os.system(conda_command)
     os.system(opt)
     print("------------------------sleep------------------------")
-    time.sleep(3600) # sleep for 1h
+    time.sleep(5400) # sleep for 1.5h
 
 if __name__ == '__main__':
     arglist = parse_args()
