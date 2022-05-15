@@ -18,57 +18,59 @@ Comp s7 - "simple_tag", (Predator-prey), Non-zerosum Comp
 
 Coop&Comp s8 - "simple_world_comm" (No Formal Name), Non-zerosum Comp, SameR Coop, DiifR Coop
 
-![S1](/v3-rmaddpg-master/experiments/plots/s1.png)
+## EXP 01
 
-![S2](/v3-rmaddpg-master/experiments/plots/s2.png)
+![S1](/v4-rmaddpg-master/experiments/plots/s1.png)
 
-![S3](/v3-rmaddpg-master/experiments/plots/s3.png)
+![S2](/v4-rmaddpg-master/experiments/plots/s2.png)
 
-![S4](/v3-rmaddpg-master/experiments/plots/s4.png)
+![S3](/v4-rmaddpg-master/experiments/plots/s3.png)
 
-![S5](/v3-rmaddpg-master/experiments/plots/s5.png)
+![S4](/v4-rmaddpg-master/experiments/plots/s4.png)
 
-![S6](/v3-rmaddpg-master/experiments/plots/s6.png)
+![S5](/v4-rmaddpg-master/experiments/plots/s5.png)
 
-![S7](/v3-rmaddpg-master/experiments/plots/s7.png)
+![S6](/v4-rmaddpg-master/experiments/plots/s6.png)
 
-![S8](/v3-rmaddpg-master/experiments/plots/s8.png)
+![S7](/v4-rmaddpg-master/experiments/plots/s7.png)
 
-## Large ADV Learning rate
+![S8](/v4-rmaddpg-master/experiments/plots/s8.png)
 
-![S1](/v3-rmaddpg-master/experiments/plots/s1_02.png)
+## EXP 02
 
-![S2](/v3-rmaddpg-master/experiments/plots/s2_02.png)
+![S1](/v4-rmaddpg-master/experiments/plots/s1_02.png)
 
-![S3](/v3-rmaddpg-master/experiments/plots/s3_02.png)
+![S2](/v4-rmaddpg-master/experiments/plots/s2_02.png)
 
-![S4](/v3-rmaddpg-master/experiments/plots/s4_02.png)
+![S3](/v4-rmaddpg-master/experiments/plots/s3_02.png)
 
-![S5](/v3-rmaddpg-master/experiments/plots/s5_02.png)
+![S4](/v4-rmaddpg-master/experiments/plots/s4_02.png)
 
-![S6](/v3-rmaddpg-master/experiments/plots/s6_02.png)
+![S5](/v4-rmaddpg-master/experiments/plots/s5_02.png)
 
-![S7](/v3-rmaddpg-master/experiments/plots/s7_02.png)
+![S6](/v4-rmaddpg-master/experiments/plots/s6_02.png)
 
-![S8](/v3-rmaddpg-master/experiments/plots/s8_02.png)
+![S7](/v4-rmaddpg-master/experiments/plots/s7_02.png)
 
-## Small ADV Learning rate
+![S8](/v4-rmaddpg-master/experiments/plots/s8_02.png)
 
-![S1](/v3-rmaddpg-master/experiments/plots/s1_03.png)
+## EXP 03
 
-![S2](/v3-rmaddpg-master/experiments/plots/s2_03.png)
+![S1](/v4-rmaddpg-master/experiments/plots/s1_03.png)
 
-![S3](/v3-rmaddpg-master/experiments/plots/s3_03.png)
+![S2](/v4-rmaddpg-master/experiments/plots/s2_03.png)
 
-![S4](/v3-rmaddpg-master/experiments/plots/s4_03.png)
+![S3](/v4-rmaddpg-master/experiments/plots/s3_03.png)
 
-![S5](/v3-rmaddpg-master/experiments/plots/s5_03.png)
+![S4](/v4-rmaddpg-master/experiments/plots/s4_03.png)
 
-![S6](/v3-rmaddpg-master/experiments/plots/s6_03.png)
+![S5](/v4-rmaddpg-master/experiments/plots/s5_03.png)
 
-![S7](/v3-rmaddpg-master/experiments/plots/s7_03.png)
+![S6](/v4-rmaddpg-master/experiments/plots/s6_03.png)
 
-![S8](/v3-rmaddpg-master/experiments/plots/s8_03.png)
+![S7](/v4-rmaddpg-master/experiments/plots/s7_03.png)
+
+![S8](/v4-rmaddpg-master/experiments/plots/s8_03.png)
 
 **Status:** Archive (code is provided as-is, no updates expected)
 
